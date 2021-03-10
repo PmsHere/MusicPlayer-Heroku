@@ -1,39 +1,10 @@
-# SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
+# MUSIC ELIZA
+![logo](https://telegra.ph/file/16a0360d58e8509d8b98b.jpg)
+💌 Reach me on Telegram [NIKKI](https://t.me/nimmisupport)
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
 
-## Note
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/basimonpp/nikki/graphs/commit-activity)
 
-Neither this, or PyTgCalls are stable.
-
-## Requirements
-
-- FFmpeg
-- NodeJS [nodesource.com](https://nodesource.com/)
-- Python 3.7+
-- [PyTgCalls](https://github.com/basimonpp/MusicPlayer-Heroku)
-
-## Deployment
-
-### HEROKU DEPLOYMENT
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/basimonpp/MusicPlayer-Heroku)
-
-Get STRING_NAME from here:
-
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
-
-
-### NORMAL WAY
-1. Install Python requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Copy `example.env` to `.env` and fill it with your credentials.
-3. Run:
-   ```bash
-   python main.py
-   ```
-
-## Credits
-
-- [Roj](https://github.com/rojserbest): main developer
-- [Marvin](https://github.com/BlackStoneReborn): bug reporter
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+# <b>DEPLOY TO HEROKU ⬇️.</b>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/basimonpp/MusicPlayer-Heroku)
